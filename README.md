@@ -1,4 +1,4 @@
-### Proyecto 1 - StrifeMyVideo
+### Proyecto 1 - Smarttools
 
 # Integrantes
 |Nombre| Correo|
