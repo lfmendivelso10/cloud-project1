@@ -78,7 +78,7 @@ class Video(models.Model):
     class Meta:
         verbose_name = "contest"
         verbose_name_plural = "contests"
-        ordering = ["start_date", "name"]
+
 
     def __unicode__(self):
         return "%s %s" % (self.original_url, self.status)

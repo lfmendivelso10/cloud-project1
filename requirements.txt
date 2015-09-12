@@ -4,7 +4,6 @@
 # Correos: lf.mendivelso10@uniandes.edu.co - d.jimenez13@uniandes.edu.co
 #
 Django==1.8.4
-South==1.0.2
 argparse==1.2.1
 dj-database-url==0.3.0
 dj-static==0.0.6
